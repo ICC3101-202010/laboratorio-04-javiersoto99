@@ -1,15 +1,22 @@
 ﻿<Properties StartupConfiguration="{C8D97FA7-00E6-47E0-9BEB-FFEE4064404B}|Default">
   <MonoDevelop.Ide.ItemProperties.Lab4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Almacenamiento.cs">
     <Files>
-      <File FileName="Program.cs" Line="13" Column="1" />
+      <File FileName="Program.cs" Line="5" Column="1" />
+      <File FileName="Maquina.cs" Line="22" Column="10" />
+      <File FileName="Recepcion.cs" Line="6" Column="6" />
+      <File FileName="Almacenamiento.cs" Line="10" Column="12" />
+      <File FileName="Ensamblaje.cs" Line="9" Column="41" />
+      <File FileName="Verificacion.cs" Line="10" Column="42" />
+      <File FileName="Empaque.cs" Line="5" Column="1" />
+      <File FileName="ComputadorCentral.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab4" expanded="True">
             <Node name="Lab4" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Almacenamiento.cs" selected="True" />
             </Node>
           </Node>
         </State>

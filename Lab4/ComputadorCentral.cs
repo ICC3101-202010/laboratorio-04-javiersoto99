@@ -2,6 +2,10 @@
 {
     public class ComputadorCentral
     {
+        public static void Reinicio(Maquina maquina)
+        {
+            maquina.Reinicio();
+        }
 
     }
 }
