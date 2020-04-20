@@ -180,6 +180,11 @@ namespace Lab4
             else
             {
                 Console.WriteLine("Metodo invalido.");
+                maquinaRe.Apagado();
+                maquinaAl.Apagado();
+                maquinaEns.Apagado();
+                maquinaVer.Apagado();
+                maquinaEmp.Apagado();
             }
            
         }
