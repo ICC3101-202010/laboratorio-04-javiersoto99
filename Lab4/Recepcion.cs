@@ -28,7 +28,7 @@ namespace Lab4
         public override void Reinicio()
         {
             base.Reinicio();
-            Console.WriteLine("Memoria maxima en Maquina de " + nombreMaquina + " Alcanzada!");
+            Console.WriteLine("Memoria maxima alcanzada en Maquina de " + nombreMaquina );
             Console.WriteLine("Maquina de " + nombreMaquina + " : REINICIADA");
         }
     }
